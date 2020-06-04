@@ -1,4 +1,17 @@
-This program is not efficient
-It creates multiple txt files that are over 30x larger than the original image
-The resultant image is usually larger than the original
-Only good for hiding images as hex I guess
+# Project Title
+
+This program inneficciently converts images into text files with the ability to convert the text file back into an image.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+Pillow
+```
+pip install Pillow
+```
+
+Base65536
+```
+pip install base65536
+```
